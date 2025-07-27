@@ -22,7 +22,7 @@ This is a responsive **BMI (Body Mass Index) Calculator** built using **React**.
 
 ## 🌐 Live Link
 
-🔗 [Check it Live on Netlify](https://your-bmi-calculator-live-link.netlify.app)
+🔗 [Check it Live on Netlify](https://gorav-bmi-calculator-app.netlify.app/)
 
 ## 🧑‍💻 Tech Stack
 - React.js
